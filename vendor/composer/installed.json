@@ -1,0 +1,56 @@
+[
+    {
+        "name": "yakeing/php_curl",
+        "version": "v2.2.1",
+        "version_normalized": "2.2.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/yakeing/php_curl.git",
+            "reference": "1db9205af51065ab6c2e04bc834d6ad450e6e18a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/yakeing/php_curl/zipball/1db9205af51065ab6c2e04bc834d6ad450e6e18a",
+            "reference": "1db9205af51065ab6c2e04bc834d6ad450e6e18a",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">=5.6"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "5.7"
+        },
+        "time": "2019-08-06T08:54:45+00:00",
+        "type": "symfony-bundle",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "php_curl\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MPL-2.0"
+        ],
+        "authors": [
+            {
+                "name": "yakeing",
+                "homepage": "http://weibo.com/yakeing"
+            }
+        ],
+        "description": "php curl class",
+        "homepage": "https://github.com/yakeing/php_curl",
+        "keywords": [
+            "curl",
+            "get",
+            "http",
+            "post"
+        ]
+    }
+]

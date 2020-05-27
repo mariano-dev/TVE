@@ -1,0 +1,47 @@
+<html>
+<div class="loader is-active loader-default"></div>
+
+<div class="card border-info mb-3 animated fadeIn form-group" id="contactForm">
+  <div class="card-header"><strong>Formulario de contacto</strong></div>
+  <div class="card-body">
+    <div>
+      <!-- <form action="#" name="reserva"> -->
+        
+      <div class="container animated fadeIn form-group justify-content-center ">
+        <form class="needs-validation" novalidate name="contactForm">
+
+          
+      <div class="form-group">
+        <label for="name">Nombre y Apellido:</label>
+        <input type="text" class="form-control form-control-sm" id="contactName" placeholder="Ingrese nombre y apellido" name="contactName" required>
+        <div class="nameError"><small>El nombre no es valido, ingrese al menos 3 caracteres.</small></div>
+      </div>
+
+      <div class="form-group">
+        <!-- <label for="phone">Telefono:<small><strong> - Ingrese numero completo, sin espacios, sin ceros (0), sin quince (15), y con codigo de pais incluido (ej: +543516542799)</strong></small></label>         -->
+        <label for="phone">Telefono:<small><strong> - Ingrese numero completo, codigo de pais (+54), codigo de area sin ceros (11), numero sin 15 (41782867)</strong></small></label>        
+        <input type="number" placeholder="+541141782867" class="form-control form-control-sm" id="contactPhone" placeholder="Ingrese su numero telefonico" name="contactPhone" required>
+        <div class="phoneError"><small>El numero de telefono no es valido.</small></div>
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" class="form-control form-control-sm" id="contactEmail" placeholder="Ingrese su Email" name="contactEmail" required>
+        <div class="emailError"><small>El Email no contiene un formato valido.</small></div>
+      </div>
+
+      <div class="form-group">
+        <label for="mensaje">Mensaje</label>
+        <textarea rows="4" cols="20" name="mensaje" class="form-control form-control-sm" id="contactMessage" placeholder="Ingrese su mensaje" required></textarea>
+        <div class="msgError"><small>El mensaje es invalido, minimo 10 caracteres.</small></div>
+      </div>
+      <button type="button" id="submitContact" class="mb-2 btn-sm btn btn-outline-info">Enviar</button> 
+
+
+      </div>
+
+      </form>
+      </div>
+  </div>
+</div>
+</html>

@@ -1,0 +1,41 @@
+.kingcabs-info-wrap .kingcabs-section .dashicons {
+	margin-top: -4px;
+	vertical-align: middle;
+}
+
+.kingcabs-info-wrap .nav-tab {
+	font-size: 16px;
+}
+
+.kingcabs-info-wrap h1 {
+	font-size: 2em;
+}
+
+.kingcabs-info-wrap h3 {
+	font-size: 1.2em;
+}
+
+.kingcabs-info-wrap .kingcabs-section-useful-plugins,
+.kingcabs-info-wrap .kingcabs-section-upgrade-to-pro,
+.kingcabs-info-wrap .kingcabs-section-demo-content {
+	margin-top: 50px;
+}
+
+.kingcabs-info-wrap .tab-upgrade-to-pro {
+	background-color: #bf2424;
+	background-color: #159614;
+	color: #FFF;
+}
+
+.kingcabs-info-wrap .quick-links a {
+	margin-right: 5px;
+}
+
+.kingcabs-info-notice .btn-dismiss {
+	margin-left: 20px;
+}
+
+.kingcabs-info-wrap .plugin-list {
+	list-style-position: inside;
+	list-style-type: disc;
+}

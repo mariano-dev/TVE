@@ -1,0 +1,1080 @@
+
+# Copyright (C) 2019 html5wp
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Travelia\n"
+"POT-Creation-Date: 2019-11-17 11:58+0545\n"
+"PO-Revision-Date: 2019-11-17 11:58+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:61
+msgid "&copy; All Right Reserved "
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:108
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:110 functions.php:120 functions.php:130 functions.php:140
+#: functions.php:150
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:118
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:128
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:138
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:148
+msgid "Google map iframe"
+msgstr ""
+
+#: functions.php:243
+msgid "Choose Category"
+msgstr ""
+
+#: functions.php:316
+msgid "Next Page"
+msgstr ""
+
+#: header-parts/header-bottom.php:21
+msgid "Add a menu"
+msgstr ""
+
+#: header-parts/header-bottom.php:31 sections/section-trip-search.php:13
+#: sections/section-trip-search.php:71
+msgid "Search"
+msgstr ""
+
+#: header-parts/header-topbar.php:14
+#: inc/customizer/travelia-header-panel.php:89
+msgid "Mon -Fri: 9:00-19:00"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#. translators: %s: search query.
+#: header.php:58
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:234
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumbs.php:235
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:236
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:237
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:238
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs.php:240
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/breadcrumbs.php:242
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:244
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:246
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:698
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:715
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:732
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumbs.php:748 inc/breadcrumbs.php:777 inc/breadcrumbs.php:804
+#: inc/breadcrumbs.php:831 inc/breadcrumbs.php:1172
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumbs.php:749 inc/breadcrumbs.php:805 inc/breadcrumbs.php:1176
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumbs.php:750 inc/breadcrumbs.php:1180
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumbs.php:778
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer/customizer-partials-function.php:13
+msgid " Mon -Fri: 9:00-19:00"
+msgstr ""
+
+#: inc/customizer/customizer-partials-function.php:24
+#: inc/customizer/travelia-frontpage-panel.php:369 sections/section-cta.php:2
+msgid "Let's go with us"
+msgstr ""
+
+#: inc/customizer/customizer-partials-function.php:34
+#: inc/customizer/travelia-frontpage-panel.php:393 sections/section-cta.php:3
+msgid "Start Your Journey With Us"
+msgstr ""
+
+#: inc/customizer/customizer-partials-function.php:43
+#: inc/customizer/travelia-frontpage-panel.php:418 sections/section-cta.php:4
+msgid ""
+"Necessitatibus enim corrupti ullam voluptatum provident deserunt natus "
+"reprehenderit, inventore, tempore aut neque cupiditate, aspernatur! "
+"Quibusdam aliquid dolor a culpa, officiis quisquam."
+msgstr ""
+
+#: inc/customizer/customizer-partials-function.php:52
+#: inc/customizer/travelia-frontpage-panel.php:443 sections/section-cta.php:5
+msgid "Book your trip"
+msgstr ""
+
+#: inc/customizer/customizer-partials-function.php:61
+#: inc/customizer/travelia-frontpage-panel.php:116
+#: inc/customizer/travelia-frontpage-panel.php:488 sections/section-cta.php:7
+msgid "Contact Us"
+msgstr ""
+
+#: inc/customizer/customizer-partials-function.php:72
+#: inc/customizer/travelia-frontpage-panel.php:176
+#: sections/section-trip-search.php:2
+msgid "Find Your Dream Trip"
+msgstr ""
+
+#: inc/customizer/customizer.php:36
+msgid "Buy Travelia Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:37
+msgid "Go Pro"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:23
+msgid "Frontpage Settings"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:41
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:42
+msgid "Managed the Slider display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:54
+msgid "Enable/Disable  Slider section"
+msgstr ""
+
+#. translators: %s: Description
+#: inc/customizer/travelia-frontpage-panel.php:70
+#, php-format
+msgid "Select Page for Slider %s"
+msgstr ""
+
+#. translators: %s: Description
+#: inc/customizer/travelia-frontpage-panel.php:85
+#, php-format
+msgid "First Button Title For Slider %s"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:86
+msgid "Book Your Trip"
+msgstr ""
+
+#. translators: %s: Description
+#: inc/customizer/travelia-frontpage-panel.php:100
+#, php-format
+msgid "Select URL For button Title 1 of slider  %s"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:101
+#: inc/customizer/travelia-frontpage-panel.php:131
+#: inc/customizer/travelia-frontpage-panel.php:468
+#: inc/customizer/travelia-frontpage-panel.php:513
+msgid "#"
+msgstr ""
+
+#. translators: %s: Description
+#: inc/customizer/travelia-frontpage-panel.php:115
+#, php-format
+msgid "Second Button Title For Slider %s"
+msgstr ""
+
+#. translators: %s: Description
+#: inc/customizer/travelia-frontpage-panel.php:130
+#, php-format
+msgid "Select URL For button Title 2 of slider %s"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:152
+msgid "Trip Search Section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:153
+msgid "Managed the Trip Search display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:165
+msgid "Enable/Disable Trip Search section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:185
+msgid "Trip Search Title"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:209
+msgid "Why Choose Section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:210
+msgid "Managed the Why Choose Us display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:222
+msgid "Enable/Disable Why Choose Us section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:237
+msgid ""
+"Select Page for  Why Choose Page title & description with Featured Image"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:251
+msgid "Type Why Choose us Featured Image vedio Url"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:252
+msgid "Only youtube vedio Link work properly"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:306
+msgid "Why Choose Us items"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:310
+#: inc/customizer/travelia-frontpage-panel.php:671
+#: inc/customizer/travelia-header-panel.php:148
+#: inc/customizer/travelia-header-panel.php:225
+#: inc/customizer/travelia-page-panel.php:111
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:311
+#: inc/customizer/travelia-frontpage-panel.php:672
+#: inc/customizer/travelia-header-panel.php:149
+#: inc/customizer/travelia-header-panel.php:226
+#: inc/customizer/travelia-page-panel.php:112
+msgid "Example: fa-facebook"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:315
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:319
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:324
+msgid "why choose"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:346
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:347
+msgid "Managed the Call to Action display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:359
+msgid "Enable/Disable Call to Action section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:378
+msgid "Call to Action Title"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:402
+msgid "Call to Action subtitle"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:427
+msgid "Call to Action Description"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:452
+msgid "Call to Action Button 1 Text"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:476
+msgid "Call to Action Button 1 Url"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:497
+msgid "Call to Action Button 2 Text"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:521
+msgid "Call to Action Button 2 Url"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:544
+msgid "Tour Package Section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:545
+msgid "Managed the tour package display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:557
+msgid "Enable/Disable  Tour Package section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:571
+msgid "Select Page for  Tour Package Title & Description"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:585
+msgid "Number of Tour Package"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:586
+#: inc/customizer/travelia-frontpage-panel.php:765
+#: inc/customizer/travelia-frontpage-panel.php:912
+#: inc/customizer/travelia-frontpage-panel.php:975
+msgid "input 3,4,5,6,7,8,9,10"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:610
+msgid "Counter Section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:611
+msgid "Managed the Counter display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:623
+msgid "Enable/Disable Counter section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:667
+msgid "Counter items"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:676
+msgid "Number"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:680
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:685
+msgid "text"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:705
+msgid "Popular Destination Section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:706
+msgid "Managed the popular destination display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:718
+msgid "Enable/Disable Popular Destination section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:732
+msgid "Select Page for Popular Destination title and description"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:748
+msgid "Choose Top destination category"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:749
+msgid ""
+"Go to Trips > Destination and add. Then you will be able to select a trip "
+"Destination from the dropdown."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:764
+msgid "To Display number of Top Destination Trips"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:785
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:786
+msgid "Managed the Testimonials display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:798
+msgid "Enable/Disable Testimonials section"
+msgstr ""
+
+#. translators: %s: Label
+#: inc/customizer/travelia-frontpage-panel.php:815
+#, php-format
+msgid "Select Testimonial Page %s"
+msgstr ""
+
+#. translators: %s: Description
+#: inc/customizer/travelia-frontpage-panel.php:830
+#, php-format
+msgid "Select Designation or Company Name %s"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:831
+msgid "Position like Developer, CEO MD"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:854
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:855
+msgid "Managed the blog display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:867
+msgid "Enable/Disable blog section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:882
+msgid "Select Page for  Blog title and description"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:898
+msgid "Select Category for blog"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:911
+msgid "Number of Recent blog to Show in Front Page"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:932
+msgid "clients Section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:933
+msgid "Managed the clients display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:945
+msgid "Enable/Disable clients section"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:961
+msgid "Select Category for Clients"
+msgstr ""
+
+#: inc/customizer/travelia-frontpage-panel.php:974
+msgid "Number of Recent Clients to Show in Front Page"
+msgstr ""
+
+#: inc/customizer/travelia-general-panel.php:31
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:26
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:43
+msgid "Top Header Section"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:44
+msgid "Managed the content display at top header section."
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:61
+msgid "Enable/Disable social links in top header(right)."
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:79
+msgid "Enable/Disable top header Left section."
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:98
+msgid "Opening Time"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:144
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:153
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:154
+msgid "Example: http://facebook.com"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:159
+msgid "links"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:180
+msgid "Middle Header Section"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:181
+msgid "Managed the content display at middle header section."
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:221
+msgid "Middle header location items"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:230
+msgid "Text 1"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:234
+msgid "Text 2"
+msgstr ""
+
+#: inc/customizer/travelia-header-panel.php:239
+msgid "locations"
+msgstr ""
+
+#: inc/customizer/travelia-page-panel.php:24
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/travelia-page-panel.php:41
+msgid "Contact Page"
+msgstr ""
+
+#: inc/customizer/travelia-page-panel.php:42
+msgid "Managed the content display at contact page."
+msgstr ""
+
+#: inc/customizer/travelia-page-panel.php:53
+msgid "Select Page for  contact Page title & description"
+msgstr ""
+
+#: inc/customizer/travelia-page-panel.php:67
+msgid "Use Shortcode for contact form"
+msgstr ""
+
+#: inc/customizer/travelia-page-panel.php:68
+msgid "eg [contact-form-7 id=\"108\" title=\"Contact form 1\"]"
+msgstr ""
+
+#: inc/customizer/travelia-page-panel.php:107
+msgid "Contact items"
+msgstr ""
+
+#: inc/customizer/travelia-page-panel.php:116
+msgid "Location Title"
+msgstr ""
+
+#: inc/customizer/travelia-page-panel.php:121
+msgid "contacts"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr ""
+
+#. translators: %s: Button Name.
+#: inc/repeater/class-control-repeater.php:83
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#. translators: %s:  Limit row.
+#: inc/repeater/class-control-repeater.php:240
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:372
+msgid "Hex Value"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:397
+#: inc/repeater/class-control-repeater.php:402
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:407
+#: inc/repeater/class-control-repeater.php:472
+msgid "Remove"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:408
+#: inc/repeater/class-control-repeater.php:412
+msgid "Add Image"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:408
+#: inc/repeater/class-control-repeater.php:410
+msgid "Change Image"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:433
+#: inc/repeater/class-control-repeater.php:438
+msgid "No File Selected"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:444
+#: inc/repeater/class-control-repeater.php:448
+msgid "Add File"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:444
+#: inc/repeater/class-control-repeater.php:446
+msgid "Change File"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:43
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-info/about.php:9 inc/theme-info/about.php:10
+msgid "Travelia Setup"
+msgstr ""
+
+#. translators: theme version
+#: inc/theme-info/about.php:13
+#, php-format
+msgid "Welcome to %s - "
+msgstr ""
+
+#. translators: 1: theme name
+#: inc/theme-info/about.php:16
+#, php-format
+msgid ""
+"We hope this page will help you to setup %1$s with few clicks. We believe "
+"you will find it easy to use and perfect for your website development."
+msgstr ""
+
+#: inc/theme-info/about.php:21
+msgid "Theme Details"
+msgstr ""
+
+#: inc/theme-info/about.php:25
+msgid "View Demo"
+msgstr ""
+
+#: inc/theme-info/about.php:29
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:33 inc/theme-info/about.php:128
+#: inc/theme-info/class-about.php:603
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/theme-info/about.php:41
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/about.php:42 inc/theme-info/about.php:58
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/theme-info/about.php:43
+msgid "Support"
+msgstr ""
+
+#: inc/theme-info/about.php:49 inc/theme-info/about.php:116
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:50
+msgid "Find step by step instructions to setup theme easily."
+msgstr ""
+
+#: inc/theme-info/about.php:51
+msgid "View documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:59
+msgid ""
+"We recommend few steps to take so that you can get complete site like shown "
+"in demo."
+msgstr ""
+
+#: inc/theme-info/about.php:60
+msgid "Check recommended actions"
+msgstr ""
+
+#: inc/theme-info/about.php:67
+msgid "Customize Everything"
+msgstr ""
+
+#: inc/theme-info/about.php:68
+msgid "Start customizing every aspect of the website with customizer."
+msgstr ""
+
+#: inc/theme-info/about.php:69
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/theme-info/about.php:81
+msgid "Setting Static Front Page"
+msgstr ""
+
+#: inc/theme-info/about.php:82
+msgid ""
+"Create a new page to display on front page ( Ex: Home ) and assign \"Home\" "
+"template. Select A static page then Front page and Posts page to display "
+"front page specific sections. Note: Static page will be set automatically "
+"when you import demo content."
+msgstr ""
+
+#: inc/theme-info/about.php:85
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/theme-info/about.php:88
+msgid "WP Travel Engine Plugin"
+msgstr ""
+
+#: inc/theme-info/about.php:89
+msgid "Please install the WP Travel Engine Plugin Before Importing Demo."
+msgstr ""
+
+#: inc/theme-info/about.php:95
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/theme-info/about.php:96
+msgid "Please install the Contact Form 7 plugin Before Importing Demo."
+msgstr ""
+
+#: inc/theme-info/about.php:107 inc/theme-info/about.php:110
+msgid "Contact Support"
+msgstr ""
+
+#: inc/theme-info/about.php:109
+msgid ""
+"If you have any problem, feel free to create ticket on our dedicated Support "
+"forum."
+msgstr ""
+
+#: inc/theme-info/about.php:118
+msgid ""
+"Kindly check our theme documentation for detailed information and video "
+"instructions."
+msgstr ""
+
+#: inc/theme-info/about.php:119
+msgid "View Documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:125
+msgid "Customization Request"
+msgstr ""
+
+#: inc/theme-info/about.php:127
+#, php-format
+msgid ""
+"This is 100% free theme and has premium version.Either Upgrade to Pro or  "
+"Feel free to contact us any time if you need any customization service."
+msgstr ""
+
+#: inc/theme-info/class-about.php:164
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr ""
+
+#: inc/theme-info/class-about.php:164
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/theme-info/class-about.php:561
+msgid "Install"
+msgstr ""
+
+#: inc/theme-info/class-about.php:565
+msgid "Activate"
+msgstr ""
+
+#: inc/theme-info/class-about.php:569
+msgid "Deactivate"
+msgstr ""
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:231
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: sections/section-blog.php:51 template-parts/content-search.php:25
+#: template-parts/content.php:26
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Popular Trips Duration
+#: sections/section-popular-destinations.php:52
+#: sections/section-tour-package.php:57
+#, php-format
+msgid "%s Days"
+msgstr ""
+
+#: sections/section-popular-destinations.php:55
+#: sections/section-tour-package.php:68
+msgid "From"
+msgstr ""
+
+#. translators: %s: Popular Trips Duration Nights
+#: sections/section-tour-package.php:60
+#, php-format
+msgid " - %s Nights"
+msgstr ""
+
+#: sections/section-tour-package.php:67
+msgid "View More"
+msgstr ""
+
+#: sections/section-tour-package.php:81
+msgid "No Tour Package found"
+msgstr ""
+
+#: sections/section-trip-search.php:57
+msgid "1 Day"
+msgstr ""
+
+#: sections/section-trip-search.php:58
+msgid "2 Day"
+msgstr ""
+
+#: sections/section-trip-search.php:59
+msgid "3 Day"
+msgstr ""
+
+#: sections/section-trip-search.php:60
+msgid "1 Week"
+msgstr ""
+
+#: sections/section-trip-search.php:61
+msgid "2 Week"
+msgstr ""
+
+#: sections/section-trip-search.php:62
+msgid "3 Week"
+msgstr ""
+
+#: sections/section-trip-search.php:63
+msgid "1 Month"
+msgstr ""
+
+#: sections/section-trip-search.php:64
+msgid "2 Month"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:24
+msgid "Comments"
+msgstr ""
+
+#: template-parts/content-page.php:30
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Travelia"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://html5wp.com/downloads/travelia-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Travelia is Full Featured Tour & Travel Website. You can add trips, "
+"destinations,and trip types, feature travel activities etc. Travelia is a "
+"free WordPress theme to create travel booking website for tour and travel "
+"companies. You can add trips, destinations, and trip types, feature travel "
+"activities, highlight your specialties and allow visitors to book the trips. "
+"The stunning design combined with modern CSS effects and animation will make "
+"your visitors feel like they are already on a trip. Travelia WordPress theme "
+"is speed optimized, SEO-friendly and mobile-friendly"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "html5wp"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://html5wp.com"
+msgstr ""

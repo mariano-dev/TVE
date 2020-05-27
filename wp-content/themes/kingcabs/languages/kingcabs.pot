@@ -1,0 +1,1249 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 11:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"Unfortunately, the page you were looking for could not be found. It may be "
+"temporarily unavailable, moved or no longer exists"
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:24
+msgid "Click Here"
+msgstr ""
+
+#: 404.php:26
+msgid "to go back to homepage."
+msgstr ""
+
+#: 404.php:29
+msgid "404"
+msgstr ""
+
+#: archive.php:31 index.php:57 search.php:31
+msgid "Prev"
+msgstr ""
+
+#: archive.php:32 index.php:58 search.php:32
+msgid "Next"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:70
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:71
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:132
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:134 functions.php:144 functions.php:167 functions.php:177
+#: functions.php:187 functions.php:197
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:142
+msgid "Left Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:152
+msgid ""
+"Create a new page to display on front page ( Ex: Home ). Select A static "
+"page then Front page and Posts page to display front page specific sections. "
+"Note: Static page will be set automatically when you \"Checked to Set "
+"Kingcabs frontpage?"
+msgstr ""
+
+#: functions.php:155
+msgid "HomePage Widget Area"
+msgstr ""
+
+#: functions.php:165
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: functions.php:175
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: functions.php:185
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: functions.php:195
+msgid "Footer Widget Area Four"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Heebo, translate this to 'off'. Do not translate into your own language.
+#: functions.php:340
+msgctxt "Heebo font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by PT+Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:345
+msgctxt "PT+Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. Name of the template
+msgid "kingcabs - Fleet Page"
+msgstr ""
+
+#: sections/section-features.php:23 sections/section-mainservices.php:39
+#: sparklethemes/widget/features-widget.php:426
+#: sparklethemes/widget/mainservicesarea.php:464
+msgid "Read More"
+msgstr ""
+
+#: sections/section-fleet.php:28 sparklethemes/widget/ourfleet.php:218
+msgid "All"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:247 sparklethemes/functions.php:150
+msgid "404 Not Found"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: sparklethemes/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. %s is the page number.
+#: sparklethemes/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: sparklethemes/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: sparklethemes/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:758 sparklethemes/breadcrumbs.php:787
+#: sparklethemes/breadcrumbs.php:814 sparklethemes/breadcrumbs.php:841
+#: sparklethemes/breadcrumbs.php:1180
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:759 sparklethemes/breadcrumbs.php:815
+#: sparklethemes/breadcrumbs.php:1184
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:760 sparklethemes/breadcrumbs.php:1188
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: sparklethemes/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: sparklethemes/functions.php:146
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sparklethemes/functions.php:184
+msgid "Copyright  &copy; "
+msgstr ""
+
+#: sparklethemes/functions.php:186
+msgid "Sparkle Themes"
+msgstr ""
+
+#: sparklethemes/functions.php:231
+msgid "Display Layout Options"
+msgstr ""
+
+#: sparklethemes/functions.php:243
+msgid "Left Sidebar"
+msgstr ""
+
+#: sparklethemes/functions.php:248
+msgid "Right (Default)"
+msgstr ""
+
+#: sparklethemes/functions.php:253
+msgid "Full width"
+msgstr ""
+
+#: sparklethemes/siteorigin-panels.php:43
+msgid "SP Kingcabs Widgets"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content-page.php:25 template-parts/content-single.php:29
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-page.php:30 template-parts/content-single.php:34
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:35
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content-search.php:27 template-parts/content.php:30
+msgid "READ MORE"
+msgstr ""
+
+#: sparklethemes/core/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted On %s"
+msgstr ""
+
+#. %s: post author.
+#: sparklethemes/core/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: sparklethemes/core/template-tags.php:42
+msgid "No Comment"
+msgstr ""
+
+#. %d: number of comments
+#: sparklethemes/core/template-tags.php:45
+#, php-format
+msgid "%d Comments."
+msgstr ""
+
+#: sparklethemes/core/template-tags.php:47
+msgid "1 Comment"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: sparklethemes/core/template-tags.php:79
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: sparklethemes/core/template-tags.php:82
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: sparklethemes/core/template-tags.php:86
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: sparklethemes/core/template-tags.php:89
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: sparklethemes/core/template-tags.php:99
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#. %s: Name of current post. Only visible to screen readers
+#: sparklethemes/core/template-tags.php:116
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:47
+msgid "Checked to Set Kingcabs frontpage?"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:56
+msgid "Colors Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:62
+#: sparklethemes/admin/about-theme/info.php:74
+msgid "Theme Options"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:71
+msgid "Header Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:92
+msgid "Enter Phone Number"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:110
+#: sparklethemes/customizer/customizer.php:1246
+msgid "Enter Button Text"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:128
+msgid "Enter Button URL"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:139
+msgid "Slider Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:140
+msgid "Configure Main Banner Slider"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:161
+msgid "Display Image Carousel Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:163
+#: sparklethemes/customizer/customizer.php:240
+#: sparklethemes/customizer/customizer.php:297
+#: sparklethemes/customizer/customizer.php:474
+#: sparklethemes/customizer/customizer.php:588
+#: sparklethemes/customizer/customizer.php:786
+#: sparklethemes/customizer/customizer.php:921
+#: sparklethemes/customizer/customizer.php:1035
+#: sparklethemes/customizer/customizer.php:1208
+#: sparklethemes/customizer/customizer.php:1299
+msgid "Yes"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:164
+#: sparklethemes/customizer/customizer.php:241
+#: sparklethemes/customizer/customizer.php:298
+#: sparklethemes/customizer/customizer.php:475
+#: sparklethemes/customizer/customizer.php:589
+#: sparklethemes/customizer/customizer.php:787
+#: sparklethemes/customizer/customizer.php:922
+#: sparklethemes/customizer/customizer.php:1036
+#: sparklethemes/customizer/customizer.php:1209
+#: sparklethemes/customizer/customizer.php:1300
+msgid "No"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:179
+msgid "Choose Category"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:191
+msgid "Enter Number of Slider"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:203
+msgid "Button Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:216
+msgid "Featues Services Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:238
+msgid "Display Features Service Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:262
+msgid "Select Features Pages"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:273
+msgid "About Service Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:295
+msgid "Manage Options"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:319
+msgid "About Service Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:337
+msgid "About Services Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:358
+msgid "About Service Title Icon"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:379
+msgid "Upload About Services Features Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:380
+msgid "Recommended Image Size: 770X650px"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:401
+msgid "Manage About Service Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:420
+msgid "Select Service Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:440
+msgid "Choose Service Icon"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:452
+msgid "Main Services Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:472
+msgid "Display Services Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:495
+msgid "Services Section Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:513
+msgid "Services Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:533
+#: sparklethemes/customizer/customizer.php:672
+#: sparklethemes/customizer/customizer.php:980
+msgid "Select Section Title Icon"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:554
+#: sparklethemes/widget/aboutservices.php:258
+#: sparklethemes/widget/aboutservices.php:300
+#: sparklethemes/widget/features-widget.php:212
+#: sparklethemes/widget/features-widget.php:254
+#: sparklethemes/widget/mainservicesarea.php:183
+#: sparklethemes/widget/mainservicesarea.php:185
+#: sparklethemes/widget/mainservicesarea.php:193
+#: sparklethemes/widget/mainservicesarea.php:202
+#: sparklethemes/widget/mainservicesarea.php:236
+#: sparklethemes/widget/mainservicesarea.php:278
+msgid "Select Services Pages"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:565
+msgid "Counter Settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:586
+msgid "Display Counter Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:610
+msgid "Counter Section Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:628
+msgid "Counter Section Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:646
+#: sparklethemes/widget/aboutservices.php:197
+msgid "Upload Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:649
+msgid "Upload Counter Section BG Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:650
+msgid "Recommended Image Size: 1800 X 400PX"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:694
+msgid "Manage Counter Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:712
+msgid "Enter Counter Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:729
+msgid "Enter Counter Number"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:749
+msgid "Select Counter Icon"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:762
+msgid "Fleet Section Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:784
+msgid "Display Fleet Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:807
+msgid "Enter Fleet Section Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:825
+msgid "Enter Fleet Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:846
+msgid "Select Fleet Title Icon"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:858
+msgid "Select Fleets Cateogry"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:874
+msgid "Enter Fleet Booking Button Text"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:887
+msgid "Enter Fllet Booking Button URL"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:899
+msgid "Testimonial Section Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:919
+msgid "Display Testimonial Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:942
+msgid "Testimonial Section Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:960
+msgid "Testimonial Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1001
+msgid "Select Testimonial Pages"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1012
+msgid "Driver Section Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1033
+msgid "Display Driver Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1056
+msgid "Driver Section Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1074
+msgid "Driver Section Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1095
+msgid "Dirver Section Title Icon"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1109
+msgid "Select Number Column"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1137
+msgid "Manage Driver Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1155
+msgid "Select Driver Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1172
+msgid "Driver Designation"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1185
+msgid "Call To Action Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1206
+msgid "Display Call To Action"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1228
+msgid "Select a Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1265
+msgid "Enter Number"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1277
+msgid "Client/Brand Logo Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1297
+msgid "Display Client Logo Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1320
+msgid "Upload Clients Logos"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1332
+msgid "Footer Section Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1351
+msgid "Footer Top Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1369
+msgid "Footer Top Button Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1387
+msgid "Footer Top Button Url"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1406
+msgid "Facebook URL"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1424
+msgid "Twitter URL"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1443
+msgid "YouTube URL"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1460
+msgid "Google + URL "
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1479
+msgid "Linkendin URL"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1490
+msgid "Footer Content (Copyright Text)"
+msgstr ""
+
+#: sparklethemes/customizer/kingcabs-custom-control.php:37
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: sparklethemes/customizer/kingcabs-custom-control.php:38
+msgid "Clear"
+msgstr ""
+
+#: sparklethemes/customizer/kingcabs-custom-control.php:125
+msgid "Select"
+msgstr ""
+
+#: sparklethemes/ocdi/ocdi.php:22
+msgid "Theme Demo Content"
+msgstr ""
+
+#: sparklethemes/tgm/tgm.php:20
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: sparklethemes/tgm/tgm.php:26
+msgid "Contact Form 7"
+msgstr ""
+
+#: sparklethemes/tgm/tgm.php:32
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: sparklethemes/tgm/tgm.php:38
+msgid "WooCommerce"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:15
+#: sparklethemes/widget/features-widget.php:15
+#: sparklethemes/widget/mainservicesarea.php:15
+msgid "1"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:16
+#: sparklethemes/widget/features-widget.php:16
+#: sparklethemes/widget/mainservicesarea.php:16
+#: sparklethemes/widget/ourfleet.php:15
+msgid "2"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:17
+#: sparklethemes/widget/features-widget.php:17
+#: sparklethemes/widget/mainservicesarea.php:17
+#: sparklethemes/widget/ourfleet.php:16
+msgid "3"
+msgstr ""
+
+#. Widget name will appear in UI
+#: sparklethemes/widget/aboutservices.php:59
+msgid "KC About Services Section"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:64
+msgid "A Widget About Features Image With Services"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:166
+#: sparklethemes/widget/mainservicesarea.php:164
+#: sparklethemes/widget/ourfleet.php:78
+#: sparklethemes/widget/testimonial-widget.php:140
+msgid "Enter Section Title"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:171
+#: sparklethemes/widget/mainservicesarea.php:169
+#: sparklethemes/widget/ourfleet.php:83
+#: sparklethemes/widget/testimonial-widget.php:145
+msgid "Enter Font Awesome Class"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:174
+#: sparklethemes/widget/mainservicesarea.php:172
+#: sparklethemes/widget/ourfleet.php:86
+#: sparklethemes/widget/testimonial-widget.php:148
+msgid "Example : (fa fa-automobile)"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:174
+#: sparklethemes/widget/mainservicesarea.php:172
+#: sparklethemes/widget/ourfleet.php:86
+#: sparklethemes/widget/testimonial-widget.php:148
+msgid "Font Awesome"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:178
+#: sparklethemes/widget/mainservicesarea.php:176
+#: sparklethemes/widget/ourfleet.php:90
+#: sparklethemes/widget/testimonial-widget.php:152
+msgid "Enter Section Sub Title"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:184
+#: sparklethemes/widget/aboutservices.php:197
+#: sparklethemes/widget/aboutservices.php:197
+msgid "Select Background Image"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:193
+msgid "Image preview"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:198
+msgid "Remove Image"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:203
+#: sparklethemes/widget/aboutservices.php:205
+#: sparklethemes/widget/aboutservices.php:213
+#: sparklethemes/widget/aboutservices.php:222
+msgid "Select About Services Pages"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:224
+msgid ""
+"Add Page, Remove. Please do not forget to add Font Awesome Icon on selected "
+"pages."
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:246
+#: sparklethemes/widget/features-widget.php:200
+#: sparklethemes/widget/mainservicesarea.php:224
+msgid "Select Services Page Item"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:264
+#: sparklethemes/widget/aboutservices.php:306
+#: sparklethemes/widget/features-widget.php:218
+#: sparklethemes/widget/features-widget.php:260
+#: sparklethemes/widget/mainservicesarea.php:242
+#: sparklethemes/widget/mainservicesarea.php:284
+#: sparklethemes/widget/testimonial-widget.php:218
+#: sparklethemes/widget/testimonial-widget.php:260
+msgid "Remove"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:265
+#: sparklethemes/widget/aboutservices.php:307
+#: sparklethemes/widget/features-widget.php:219
+#: sparklethemes/widget/features-widget.php:261
+#: sparklethemes/widget/mainservicesarea.php:243
+#: sparklethemes/widget/mainservicesarea.php:285
+#: sparklethemes/widget/testimonial-widget.php:219
+#: sparklethemes/widget/testimonial-widget.php:261
+msgid "Close"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:266
+#: sparklethemes/widget/aboutservices.php:308
+#: sparklethemes/widget/features-widget.php:220
+#: sparklethemes/widget/features-widget.php:262
+#: sparklethemes/widget/mainservicesarea.php:244
+#: sparklethemes/widget/mainservicesarea.php:286
+#: sparklethemes/widget/testimonial-widget.php:220
+#: sparklethemes/widget/testimonial-widget.php:262
+msgid "Full Edit"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:289
+#: sparklethemes/widget/aboutservices.php:316
+#: sparklethemes/widget/features-widget.php:243
+#: sparklethemes/widget/features-widget.php:270
+#: sparklethemes/widget/mainservicesarea.php:267
+#: sparklethemes/widget/mainservicesarea.php:294
+msgid "Services Page Item"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:324
+#: sparklethemes/widget/features-widget.php:278
+#: sparklethemes/widget/mainservicesarea.php:302
+#: sparklethemes/widget/ourfleet.php:136
+msgid "Column Number"
+msgstr ""
+
+#: sparklethemes/widget/aboutservices.php:416
+msgid "About Services Images"
+msgstr ""
+
+#: sparklethemes/widget/brandlogo-widget.php:27
+msgid "KC Brand/Client Logo Section"
+msgstr ""
+
+#: sparklethemes/widget/brandlogo-widget.php:30
+msgid "A widget display client/brand logo"
+msgstr ""
+
+#: sparklethemes/widget/brandlogo-widget.php:47
+msgid "Our Brand/Client Logo Settings"
+msgstr ""
+
+#: sparklethemes/widget/brandlogo-widget.php:50
+msgid "Click on button and manage client/brand logo section area in customizer"
+msgstr ""
+
+#: sparklethemes/widget/calltoaction.php:31
+msgid "KC CAll To Action Section"
+msgstr ""
+
+#: sparklethemes/widget/calltoaction.php:34
+msgid "A widget display business description with title and number"
+msgstr ""
+
+#: sparklethemes/widget/calltoaction.php:55
+msgid "Select Call To Action Page"
+msgstr ""
+
+#: sparklethemes/widget/calltoaction.php:64
+msgid "Select Page"
+msgstr ""
+
+#: sparklethemes/widget/calltoaction.php:72
+msgid "Call To Action Titile"
+msgstr ""
+
+#: sparklethemes/widget/calltoaction.php:77
+msgid "Call To Action Number"
+msgstr ""
+
+#. Widget name will appear in UI
+#: sparklethemes/widget/features-widget.php:56
+msgid "KC Features Services Section"
+msgstr ""
+
+#: sparklethemes/widget/features-widget.php:61
+msgid "Show Features Services Page."
+msgstr ""
+
+#: sparklethemes/widget/features-widget.php:158
+#: sparklethemes/widget/features-widget.php:168
+#: sparklethemes/widget/features-widget.php:177
+msgid "Select Features Services Pages"
+msgstr ""
+
+#: sparklethemes/widget/features-widget.php:160
+msgid "Select Features Services Area Pages"
+msgstr ""
+
+#. Widget name will appear in UI
+#: sparklethemes/widget/mainservicesarea.php:58
+msgid "KC Main Services Section"
+msgstr ""
+
+#: sparklethemes/widget/mainservicesarea.php:63
+msgid "A Widget Main Services Area"
+msgstr ""
+
+#: sparklethemes/widget/ourfleet.php:55
+msgid "KC Our Fleet Section"
+msgstr ""
+
+#: sparklethemes/widget/ourfleet.php:58
+msgid "A widget display fleet"
+msgstr ""
+
+#: sparklethemes/widget/ourfleet.php:96
+msgid "Select Multiple Fleet Category"
+msgstr ""
+
+#: sparklethemes/widget/ourteammember.php:27
+msgid "KC Our Team Member Section"
+msgstr ""
+
+#: sparklethemes/widget/ourteammember.php:30
+msgid "A widget display team member"
+msgstr ""
+
+#: sparklethemes/widget/ourteammember.php:47
+msgid "Our Team/Driver Settings"
+msgstr ""
+
+#: sparklethemes/widget/ourteammember.php:50
+msgid ""
+"Click on button and manage team member/ driver settings Driver Section Area "
+"in customizer"
+msgstr ""
+
+#. Widget name will appear in UI
+#: sparklethemes/widget/testimonial-widget.php:36
+msgid "KC Testimonials Section"
+msgstr ""
+
+#: sparklethemes/widget/testimonial-widget.php:41
+msgid "A Widget Display Testimonials Area"
+msgstr ""
+
+#: sparklethemes/widget/testimonial-widget.php:159
+#: sparklethemes/widget/testimonial-widget.php:161
+#: sparklethemes/widget/testimonial-widget.php:169
+#: sparklethemes/widget/testimonial-widget.php:178
+#: sparklethemes/widget/testimonial-widget.php:212
+#: sparklethemes/widget/testimonial-widget.php:254
+msgid "Select Testimonials Pages"
+msgstr ""
+
+#: sparklethemes/widget/testimonial-widget.php:200
+msgid "Select Testimonials Page Item"
+msgstr ""
+
+#: sparklethemes/widget/testimonial-widget.php:243
+#: sparklethemes/widget/testimonial-widget.php:270
+msgid "Testimonials Page Item"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/class.info.php:121
+#: sparklethemes/admin/about-theme/class.info.php:122
+#, php-format
+msgid "%s Info"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/class.info.php:126
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme info page."
+msgstr ""
+
+#: sparklethemes/admin/about-theme/class.info.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/class.info.php:126
+msgid "Dismiss this notice"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/class.info.php:231
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+#: sparklethemes/admin/about-theme/class.info.php:340
+#: sparklethemes/admin/about-theme/class.info.php:381
+msgid "Manage Plugins"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:20
+#, php-format
+msgid ""
+"%1$s is a responsive WordPress theme for Limousine, Limo service, Car hire "
+"company, Bus, Coach, Taxi, Cab, Airport transfer service. This theme comes "
+"with well designed limo fleet layout, and beautiful booking form. It allows "
+"customer to book online and the form will send email to admin(limousine "
+"provider). Kingcabs theme is completely built on customizer which allows you "
+"to customize most of the theme settings easily with live previews, King Cabs "
+"supports many 3rd party plugins, compatible with Jetpack, WooCommerce and "
+"Contact Form 7, Official Support Forum: https://www.sparklewpthemes."
+"com/support/ Full Demo: http://demo.sparklewpthemes.com/kingcabs/ and Docs: "
+"http://docs.sparklewpthemes.com/kingcabs/"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:25
+msgid "Support"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:26
+msgid "Useful Plugins"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:27
+#: sparklethemes/admin/about-theme/info.php:83
+#: sparklethemes/admin/about-theme/info.php:86
+msgid "Demo Content"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:28
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:35
+msgid "Theme Details"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:40
+msgid "View Demo"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:45
+#: sparklethemes/admin/about-theme/info.php:67
+#: sparklethemes/admin/about-theme/info.php:108
+msgid "View Documentation"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:50
+msgid "Rate This Theme"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:55
+#: sparklethemes/admin/about-theme/info.php:137
+msgid "Buy Pro Themes"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:64
+#: sparklethemes/admin/about-theme/info.php:105
+msgid "Theme Documentation"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:66
+#: sparklethemes/admin/about-theme/info.php:107
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:76
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:77
+msgid "Customize"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:85
+#, php-format
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and activated."
+" After plugin is activated, visit Import Demo Data menu under Appearance."
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:85
+#: sparklethemes/admin/about-theme/info.php:131
+msgid "One Click Demo Import"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:96
+#: sparklethemes/admin/about-theme/info.php:99
+msgid "Contact Support"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:98
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:114
+msgid "Child Theme"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:116
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself. Using this approach, you wont "
+"lose the customization after theme update."
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:117
+msgid "Learn More"
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:126
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:131
+#, php-format
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make "
+"sure plugin is installed and activated. After plugin is activated, you will "
+"see Import Demo Data menu under Appearance."
+msgstr ""
+
+#: sparklethemes/admin/about-theme/info.php:136
+msgid ""
+"If you want more advanced features then you can upgrade to the premium "
+"version of the theme."
+msgstr ""
+
+#: sparklethemes/customizer/customizer-pro/class-customize.php:76
+msgid "KINGCABS"
+msgstr ""
+
+#: sparklethemes/customizer/customizer-pro/class-customize.php:77
+msgid "BUY PRO"
+msgstr ""
+
+#. Name of the theme
+msgid "kingcabs"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Kingcabs is a responsive WordPress theme for Limousine, Limo service, Car "
+"hire company, Bus, Coach, Taxi, Cab, Airport transfer service. This theme "
+"comes with well designed limo fleet layout, and beautiful booking form. It "
+"allows customer to book online and the form will send email to "
+"admin(limousine provider). Kingcabs theme is completely built on customizer "
+"which allows you to customize most of the theme settings easily with live "
+"previews, King Cabs supports many 3rd party plugins, compatible with Jetpack,"
+" WooCommerce and Contact Form 7, Official Support Forum: https://www."
+"sparklewpthemes.com/support/ Full Demo: http://demo.sparklewpthemes."
+"com/kingcabs/ and Docs: http://docs.sparklewpthemes.com/kingcabs/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.sparklewpthemes.com/wordpress-themes/kingcabs"
+msgstr ""
+
+#. Author of the theme
+msgid "sparklewpthemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://sparklewpthemes.com/"
+msgstr ""

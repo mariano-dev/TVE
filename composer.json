@@ -1,0 +1,5 @@
+{
+    "require": {
+        "yakeing/php_curl": "^2.2"
+    }
+}
